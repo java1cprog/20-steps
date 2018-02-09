@@ -21,8 +21,9 @@
  20. Improving the quality of public administration.
     
     
-    ### UML diagrams
     
+### UML diagrams
+
 ```sequence
 Change of economic strategy->We will put Russia's wealth, its natural, industrial and financial resources in the service of the people.: Hello Bob, how are you?
 Note right of Bob: a sharp turn from oligarchic capitalism to a social state
