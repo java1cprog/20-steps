@@ -19,12 +19,4 @@
  18. A just court will be on the side of law, citizen and society, not oligarchy.
  19. Restoration of the system of democracy and people's representation.
  20. Improving the quality of public administration.
-    
-    
-    
-### UML diagrams
-
-```sequence
-Change of economic strategy->We will put Russia's wealth, its natural, industrial and financial resources in the service of the people.: Hello Bob, how are you?
-Note right of Bob: a sharp turn from oligarchic capitalism to a social state
-```
+   
